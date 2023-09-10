@@ -4,7 +4,7 @@ table,td{
 	}
 table,tr{border:1px solid black;
 	}
-#t11,t12,t13,t21,t-image{
+#t11,#t12,#t13,#t21,#t-image{
 	padding:1px;
 }
 .first{background-color:green;}
